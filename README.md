@@ -8,6 +8,8 @@ I am a cybersecurity student currently working on a comprehensive SIEM solution,
 
 As a student deeply interested in cybersecurity, my goal with this project is to integrate practical knowledge with advanced security practices to create a robust solution for monitoring and protecting systems.
 
+***I have Provided a detailed Expalantion of Source Code in CyberGuard Repository***
+
 ## Agent Features
 
 The security agent includes the following features:
